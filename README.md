@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+* This is a bot
+* Its name is Probot
 
 ## What it does
 
-FEATURES PLACEHOLDER
+* Assist people in tasks
+* Inform people about new stuff
 
 ## Getting started
 
