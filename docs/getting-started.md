@@ -35,4 +35,5 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Welcome! To get started, follow the "Installing the bot" procedure.
+Hello! To create the configuration, follow the "Create the config" procedure.
